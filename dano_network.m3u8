@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:122
+
+#EXTINF:-1,DANO TV Localized News Feed
+https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+
+#EXTINF:-1,DANO TV US National Loop
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
